@@ -1,185 +1,192 @@
-UPDATE OTOMATIS 
+# myROBOT-V80
 
-# APLIKASI-V80
-APLIKASI AI ROBOT SYSTEM V.80
+**myROBOT-V80 ATAU AI ROBOT SYSTEM V.80 -- Versi 8 (Final Release)**\
+Pengembangan dan penyempurnaan sistem AI Robot untuk integrasi aplikasi
+rumah sakit.
 
-VERSI TERBARU DI DEVELOPMENT OLEH IT DESAIN HAMBA ALLOH.
+**Status:** Development & Internal Use\
+**Pengembang:** IT Desain Hamba Alloh\
+**Creator:** Asep Pudin New
 
-DI LINDUNGI DENGAN KODE ROBOT : V80 DAN KODE KEAMANAN : V80
+------------------------------------------------------------------------
 
+# 📌 Informasi Aplikasi
 
-NAMA APLIKASI : AI ROBOT SYSTEM V80 VERSI 8
-PEMBUATAN TAHUN 2023 RILIS TAHUN 2024
+  Informasi         Detail
+  ----------------- ---------------------
+  Nama Aplikasi     AI ROBOT SYSTEM V80
+  Versi             8.0
+  Tahun Pembuatan   2023
+  Tahun Rilis       2024
+  Update Final      2026
+  Kode Robot        V80
+  Kode Keamanan     V80
 
-CEK RIVIEW DAN DOWNLOAD
+------------------------------------------------------------------------
 
-  -------------------------------------------------------------------------------
-CEK UPDATE VERSI 8.0 RILIS
+# 🔗 Link Update Versi
 
-LINK : https://github.com/klinikasura/APLIKASI-V80/releases/ (VERSI FINAL)
+### Release Versi Final
 
-  -------------------------------------------------------------------------------
+https://github.com/klinikasura/APLIKASI-V80/releases/
 
-CEK RIVIEW TAMPILAN APLIKASI APLIKASI AI ROBOT SYSTEM V.80
+### Preview Tampilan Aplikasi
 
-LINK : https://klinikasura.github.io/APLIKASI-V80/ (VERSI FINAL)
+https://klinikasura.github.io/APLIKASI-V80/
 
-  -------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
-DOWNLOAD APLIKASI AI ROBOT SYSTEM V.80
+# 📥 Download Aplikasi
 
-LINK : https://github.com/klinikasura/APLIKASI-V80/raw/refs/heads/main/BUILDING/AI-ROBOT-SYSTEM-V80-10032025-0800.apk
+### Android
 
-  -------------------------------------------------------------------------------
-  
-DOWNLOAD APLIKASI AI ROBOT SYSTEM V.80 AUDIO
+https://github.com/klinikasura/APLIKASI-V80/releases/download/8.0_NEW\_(14022026-0900)/app-release-14022026-0907.apk
 
-LINK : https://github.com/klinikasura/APLIKASI-V80/raw/refs/heads/main/BUILDING/AUDIO.apk
+### iOS / iPhone Source
 
-  -------------------------------------------------------------------------------
+https://github.com/klinikasura/APLIKASI-V80/releases/download/8.0_NEW\_(14022026-0900)/ios_source-14022026-0907.tar.gz
 
-WIDGET AI ROBOT SYSTEM V80
+### AI Robot System Audio
 
-  -------------------------------------------------------------------------------
+https://github.com/klinikasura/APLIKASI-V80/raw/refs/heads/main/BUILDING/AUDIO.apk
 
-CEK RIVIEW TAMPILAN APLIKASI APLIKASI AI ROBOT SYSTEM V.80 (AI HOTSPOT)
+------------------------------------------------------------------------
 
-LINK : https://klinikasura.github.io/AI-ROBOT-SYSTEM-V80-HOTSPOT/login (VERSI FINAL)
+# 🧩 Widget AI Robot System V80
 
-  -----------------------------------------------------------------------------
+### 1. AI Hotspot
 
-CEK RIVIEW TAMPILAN APLIKASI APLIKASI AI ROBOT SYSTEM V.80 (AI CHAT)
+https://klinikasura.github.io/AI-ROBOT-SYSTEM-V80-HOTSPOT/login
 
-LINK : https://klinikasura.github.io/AI-ROBOT-SYSTEM-V80-AI-CHAT (VERSI FINAL
+### 2. AI Chat
 
-  -----------------------------------------------------------------------------
+https://klinikasura.github.io/AI-ROBOT-SYSTEM-V80-AI-CHAT
 
-CEK RIVIEW TAMPILAN APLIKASI APLIKASI AI ROBOT SYSTEM V.80 (AI CUACA)
+### 3. AI Cuaca
 
-LINK : https://klinikasura.github.io/AI-ROBOT-SYSTEM-V80-CUACA/ (VERSI FINAL
+https://klinikasura.github.io/AI-ROBOT-SYSTEM-V80-CUACA/
 
-  -----------------------------------------------------------------------------
+### 4. AI Slider
 
-CEK RIVIEW TAMPILAN APLIKASI APLIKASI AI ROBOT SYSTEM V.80 (AI SLIDER)
+https://klinikasura.github.io/APLIKASI-V80/SLIDER/
 
-LINK : https://klinikasura.github.io/APLIKASI-V80/SLIDER/ (VERSI FINAL
+------------------------------------------------------------------------
 
-  -------------------------------------------------------------------------------
+# 🚀 Rincian Pembaharuan Versi 8
 
+## Update Sistem
 
-  ---------------------------- RINCIAN PEMBAHARUAN -----------------------------
+-   Pembaharuan Coding & Program **AI INTEL AQ**
+-   Pembaharuan **Cyber Security System**
+-   Pembaharuan **UI / UX Desain Versi 8**
+-   Pembaharuan **Widget AI Robot System**
+-   Pembaharuan koneksi **Database System**
 
-- Pembaharuan Coding & Program Kecerdasan Buatan INTEL AQ 
+## Update Aplikasi
 
-- Pembaharuan System Keamanan Cyber 
+-   Mobile Application **AI Robot System V8 PRO**
+-   Desktop Application **AI Robot System V8 PRO**
 
-- Pembaharuan Tampilan dan Desain Versi 8
+## Integrasi Sistem
 
-- Pembaharuan AI Robot System Widget Konek Database System
+-   Integrasi **SATU SEHAT Kemenkes**
+-   Integrasi **ASKES Nasional**
+-   Pembaharuan **Smart Internet Network System**
 
-- Pembaharuan di Aplikasi Mobile AI Robot System Versi 8 PRO
+------------------------------------------------------------------------
 
-- Pembaharuan di Aplikasi Komputer System Versi 8 PRO
+# ⚙️ Level Sistem
 
-- Pembaharuan Integrasi SATU SEHAT KEMENKES & ASKES Nasional 
+  Sistem            Level
+  ----------------- ---------
+  Coding Program    Level 8
+  Aplikasi Mobile   Level 8
+  Github API        Level 8
+  System Release    Level 8
 
-- Pembaharuan Jaringan Internet Otomatis Smart
+------------------------------------------------------------------------
 
+# 🖥️ Tampilan Aplikasi
 
-RINCIAN :
+## Versi Desktop
 
-- CODING DAN PROGRAM LEVEL 8
+![Desktop](https://github.com/user-attachments/assets/a951e8fd-ce45-432d-abbb-02d294dea41a)
 
-- APLIKASI MOBILE LEVEL 8
+## Versi Mobile
 
-- GITHUB API UPDATE LEVEL 8
+![Mobile](https://github.com/user-attachments/assets/d4abf971-2454-447f-bb2d-be9396a20990)
 
-- RILIS SYSTEM UPDATE LEVEL 8
+## Versi Multi Platform
 
+![System1](https://github.com/user-attachments/assets/9b200029-9e73-4885-9a98-1a1c26174f6b)
+![System2](https://github.com/user-attachments/assets/bd8de1ae-c447-4220-90d7-439c0243a3bd)
+![System3](https://github.com/user-attachments/assets/2264e8e3-2161-462d-afb3-289a84eb231b)
+![System4](https://github.com/user-attachments/assets/877507ac-dc9c-4959-a607-f1151b5de112)
 
-  ---------------------------- APLIKASI AI ROBOT SYSTEM V.80 ---------------------
+------------------------------------------------------------------------
 
+# 🗂️ Logbook Pengembangan
 
- UPDATE TAMPILAN VERSI DESKTOP / KOMPUTER :
+  Versi           Tahun
+  --------------- -------
+  Versi 1         2021
+  Versi 2         2021
+  Versi 3         2021
+  Versi 4         2022
+  Versi 5         2023
+  Versi 6         2024
+  Versi 7         2024
+  Versi 8         2025
+  Versi 8 Final   2026
 
-![image](https://github.com/user-attachments/assets/3adcb7eb-2a20-4845-bb61-2d10535625c2)
+------------------------------------------------------------------------
 
+# 💾 Penyimpanan Data
 
-UPDATE TAMPILAN LAMA : 
+Sistem menggunakan teknologi:
 
+-   SQL Database
+-   Apache Server
+-   AI System
+-   MDBL
+-   INTEL AQ
 
-![Screenshot_20250120-201648](https://github.com/user-attachments/assets/ded279ef-f868-4d9c-ae55-82e2eee2b9e2)
+------------------------------------------------------------------------
 
+# 📡 Jaringan Sistem
 
-UPDATE TAMPILAN BARU VERSI HANDPHONE / ANDROID / IPHONE : 
+-   Satelit : **AQ-08**
+-   Sistem Coding Spesial : **QS**
 
+------------------------------------------------------------------------
 
-![WhatsApp Image 2025-05-17 at 22 36 01](https://github.com/user-attachments/assets/c3cbf10a-3bf0-4f91-a3b4-8b2a6cbf31d3)
+# 💻 Platform Support
 
-![WhatsApp Image 2025-05-17 at 22 36 01 (1)](https://github.com/user-attachments/assets/f4103db5-997c-4567-b42a-86000e083613)
+-   Windows
+-   Linux
+-   Mac OS
+-   Android
+-   iOS / iPhone
+-   Google Platform
+-   XP System
 
-![WhatsApp Image 2025-05-17 at 22 36 01 (2)](https://github.com/user-attachments/assets/fb5026b9-1737-48f4-8aea-da97e34924da)
+------------------------------------------------------------------------
 
-![WhatsApp Image 2025-05-17 at 22 36 01 (3)](https://github.com/user-attachments/assets/bc5474f1-59cd-471c-8791-56e2acefad5d)
+# ⚠️ Catatan Penting
 
-![WhatsApp Image 2025-05-17 at 22 42 50](https://github.com/user-attachments/assets/9f310441-a9d3-4bea-82f6-3a74b8badccb)
+Program **AI ROBOT SYSTEM V80** hanya digunakan untuk **internal Rumah
+Sakit** dan tidak dipublikasikan secara umum.
 
-![WhatsApp Image 2025-05-17 at 23 22 43](https://github.com/user-attachments/assets/d722bd81-9f8d-4524-9b78-00a639515dca)
+Repository GitHub ini digunakan sebagai **API Connector (Application
+Programming Interface)** untuk komunikasi antar sistem AI Robot System
+V80.
 
+------------------------------------------------------------------------
 
+# 👨‍💻 Developer
 
-UPDATE TAMPILAN BARU VERSI 8.0 => 12 HANDPHONE / ANDROID / IPHONE :  
+**Create Apps:**\
+ASEP PUDIN NEW
 
-![image](https://github.com/user-attachments/assets/05fcdb91-f8e0-41f4-8d9b-c2bf93fc4b49)
-
-![image](https://github.com/user-attachments/assets/cd2c38e2-6758-41d3-855e-963c8d5729c8)
-
-![image](https://github.com/user-attachments/assets/806b1e16-12d8-4c87-915e-75d78c026d0d)
-
-![image](https://github.com/user-attachments/assets/831ded4c-2e9e-40ea-bc29-bf84b2abe223)
-
-![image](https://github.com/user-attachments/assets/716c8151-fdf1-47cb-aef9-8e5f82157df2)
-
-![image](https://github.com/user-attachments/assets/e6af282e-bb7a-4fed-80b3-7280391cf43b)
-
-UPDATE TAMPILAN BARU VERSI 8.0 => 12 OS / LINUX / MAC :  
-
-![image](https://github.com/user-attachments/assets/a855f3e3-ff80-4346-ae71-9e3b1f38809d)
-
-![image](https://github.com/user-attachments/assets/7b834be2-dfd4-4aee-864d-1cf550a46bfd)
-
-
-  -----------------------------------------------------------------------------------
-
-CATATAN : 
-
- PROGRAM APLIKASI AI ROBOT SYSTEM V.80 INI HANYA DI PERUNTUKAN DI RS KAMI TIDAK DI PUBLIKASI.
- JARINGAN GITHUB INI DI BUAT UNTUK PENGHUBUNG APLIKASI AI ROBOT SYSTEM V.80 SEBAGAI API (Application Programming Interface).
-
-
-**Full Changelog**:
-
-LOGBOOK :
-
-VERSI 1 TAHUN 2021,
-VERSI 2 TAHUN 2021,
-VERSI 3 TAHUN 2021,
-VERSI 4 TAHUN 2022,
-VERSI 5 TAHUN 2023,
-VERSI 6 TAHUN 2024,
-VERSI 7 TAHUN 2024,
-VERSI 8 TAHUN 2025.
-
-
-CREATE APPS: ASEP PUDIN NEW.
-SUPPORT:
-
-IOS, OS, WINDOWS, LINUX, MAC, ANDROID, IPHONE, GOOGLE DAN XP
-
-PENYIMPANAN DATA :
-SQL, APACHE, AI, MDBL DAN INTEL AQ
-
-SINYAL:
-SATELIT AQ-08
-
-TERIMA KASIH.
+**Support System:**\
+IT Desain Hamba Alloh
